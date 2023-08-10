@@ -6,6 +6,14 @@
     box-sizing: border-box;
 }
 
+input {
+    outline: none;
+}
+
+textarea{
+    outline: none;
+}
+
 .contenedorInicio { 
     background-image: url(img/columnas.jpg);
     background-repeat: no-repeat;
